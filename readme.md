@@ -21,6 +21,9 @@ No se vale insultar, trollear o decir comentarios despectivos a personas con dif
 - **Acoso**
 - **Bullying**
 
+## Sanciones
+Las sanciones que se podrán aplicar a los miembros de la comunidad serán decididas por miembros de jefatura del área, se tomará en cuenta el reglamento de la universidad y gravedad la falta. Puede ser desde una amonestación o llamada de atención hasta la baja de la universidad en caso de faltas muy graves.
+
 ## Procedimiento  para  formular  quejas,  presentar  inquietudes  y recibir orientación
 Cualquier duda, reporte o comentario puedes contactar a jefatura del área.
 
@@ -49,6 +52,9 @@ No scratching, mistreatment or misuse of the area's computer equipment and class
 It is not acceptable to insult, troll or say derogatory comments to people with different ideologies.
 - **Harassment**
 - **Bullying**
+
+## Penalties
+The sanctions that may be applied to members of the community will be decided by members of the head of the CS area, will be taken into consideration the rulebook of the university and seriousness of the offense. It can be from a warning  to the dismissal of the university if the fault was very serious.
 
 ## Grievance, Concern and Guidance Procedure
 Any doubt, report or comment you can contact the head of the area.

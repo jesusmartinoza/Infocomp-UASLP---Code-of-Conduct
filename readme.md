@@ -2,6 +2,7 @@
 ### Español
 Para crecer todos como comunidad y para hacer más competitiva al área. Recuerda que este código de conducta es código abierto y los Pull Request son siempre bienvenidos.
 
+## Comportamiento esperado
 - **Respeto**
 Di lo que piensas, pero por favor, dilo de manera constructiva.
 - **Exprésate**
@@ -11,6 +12,7 @@ Muestra empatía hacía otros miembros de la comunidad, por ejemplo guardar sile
 - **Puntualidad**
 Entregar a tiempo trabajos y llegar a la hora acordada, respetar el tiempo de otros.
 
+## Comportamiento inaceptable
 Ejemplos de comportamiento inaceptable dentro de la comunidad.
 - **Daño a las instalaciones**
 No rayar, maltratar o hacer mal uso de los equipos de computo y salones del área.
@@ -19,9 +21,15 @@ No se vale insultar, trollear o decir comentarios despectivos a personas con dif
 - **Acoso**
 - **Bullying**
 
+## Procedimiento  para  formular  quejas,  presentar  inquietudes  y recibir orientación
+Cualquier duda, reporte o comentario puedes contactar a jefatura del área.
+
+jefatura.ciencias.compu@gmail.com
+
 ### English
 To grow all as a community and to make the area more competitive. Remember that this code of conduct is open source and Pull Requests are always welcome.
 
+## Expected behaviour
 - **Respect**
 Say what you think, but please say it constructively.
 - **Express yourself**
@@ -31,6 +39,7 @@ Shows empathy towards other members of the community, e.g. keeping silent in an 
 - **Punctuality**
 Deliver work on time and arrive at agreed time, respect others' time.
 
+## Unacceptable behaviour
 Examples of unacceptable behavior within the community.
 
 - **Damage to facilities**
@@ -41,3 +50,7 @@ It is not acceptable to insult, troll or say derogatory comments to people with 
 - **Harassment**
 - **Bullying**
 
+## Grievance, Concern and Guidance Procedure
+Any doubt, report or comment you can contact the head of the area.
+
+jefatura.ciencias.compu@gmail.com

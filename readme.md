@@ -1,5 +1,5 @@
 # Área de Ciencias de la Computación de la UASLP
-### Español
+# Español
 Para crecer todos como comunidad y para hacer más competitiva al área. Recuerda que este código de conducta es código abierto y los Pull Request son siempre bienvenidos.
 
 ## Comportamiento esperado
@@ -26,7 +26,7 @@ Cualquier duda, reporte o comentario puedes contactar a jefatura del área.
 
 jefatura.ciencias.compu@gmail.com
 
-### English
+# English
 To grow all as a community and to make the area more competitive. Remember that this code of conduct is open source and Pull Requests are always welcome.
 
 ## Expected behaviour
